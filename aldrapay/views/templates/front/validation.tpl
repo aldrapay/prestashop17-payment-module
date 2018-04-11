@@ -1,0 +1,1 @@
+<h2>{l s='Validation' mod='aldrapay'}</h2>
