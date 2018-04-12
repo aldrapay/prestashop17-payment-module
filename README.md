@@ -8,12 +8,14 @@
 
 1. Copy the folder "aldrapay" to the "modules" directory of the PrestaShop system.
 2. Or install the module by using the upload function and the ZIP archive [prestashop17-aldrapay.zip](https://github.com/aldrapay/prestashop17-payment-module/raw/master/prestashop17-aldrapay.zip)
-3. Configure the module:
-4.1 In the administration panel go to the "Modules" section.
-4.2 Find the "Aldrapay" block and click "Install".
-4.3 After installation at the bottom of the "Aldrapay" block, click "Configure".
-4.4 Fill the fields.
-4.5 Save (Click the "Save" button).
+
+### Configuration
+
+1. In the administration panel go to the "Modules" section.
+2. Find the "Aldrapay" block and click "Install".
+3. After installation at the bottom of the "Aldrapay" block, click "Configure".
+4. Fill the fields.
+5. Save (Click the "Save" button).
 
 ### Notes
 
